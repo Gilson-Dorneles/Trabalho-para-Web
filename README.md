@@ -1,2 +1,2 @@
-# Trabalho-para-Web
+# Jornal Online
 Desenvolvimento de um site para web. 
